@@ -33,5 +33,5 @@ $ curl http://localhost:48832/?token=...
 
 ## TODO
 
-- [ ] Docker containers
+- [ ] Docker containerization
 - [ ] Better Admin UX
