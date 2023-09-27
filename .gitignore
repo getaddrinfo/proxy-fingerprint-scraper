@@ -1,0 +1,6 @@
+scraper
+.idea/
+proxies.txt
+ua.txt
+
+proxy/ip/http.go
